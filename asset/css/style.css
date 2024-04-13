@@ -1,0 +1,30 @@
+.sign-in{
+    /* background-image: url(../img/form-img.jpeg); */
+}
+
+.card-1{
+    transition: all 1s linear;
+    overflow: hidden;
+}
+
+.card-1:hover .img_blog {
+    transform: scale(1.01);
+}
+
+.card-2{
+    transition: all 1s linear;
+    overflow: hidden;
+}
+
+.card-2:hover .img_blog {
+    transform: scale(1.01);
+}
+
+.card-3{
+    transition: all 1s linear;
+    overflow: hidden;
+}
+
+.card-3:hover .img_blog {
+    transform: scale(1.01);
+}
